@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lucianosdias/contatoohTest.svg?branch=master)](https://travis-ci.org/lucianosdias/contatoohTest)
+
 # mean-livro-codigo
 Não esqueça de executar no console os comandos:
 
